@@ -146,7 +146,7 @@ h3{
 }
 @media (max-width: 900px) {
     .grid-container{
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr ;
     }
 }
 .icon-line {
