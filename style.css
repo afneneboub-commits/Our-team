@@ -169,3 +169,18 @@ h3{
     background: linear-gradient(to right, #c4a5ff, #6840b5);
     border-radius: 10px;
 }
+.team-label{
+    display: flex;
+    justify-content:center;
+    margin:30px auto;
+}
+.team-label span {
+    border:2px solid #a78bfa ;
+    border-radius:30px;
+    padding:10px 30px;
+    color: #6840b5;
+    font-size:14px;
+    font-weight:bold;
+    letter-spacing:2px;
+    background:transparent;
+}
